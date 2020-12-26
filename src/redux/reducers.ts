@@ -51,7 +51,7 @@ export const initialState = {
         },
         {
             id: 'lestrade',
-            label: '',
+            label: 'Лестрейда',
             currentValue: '',
             checkCode: '453',
             urlPhoto: 'https://i.ibb.co/1rxvLrW/revera.jpg',
@@ -60,7 +60,7 @@ export const initialState = {
         },
         {
             id: 'moriarty',
-            label: 'Лестрейда',
+            label: 'Мориарти',
             currentValue: '',
             checkCode: '571',
             urlPhoto: 'https://i.ibb.co/6J4Fn8B/mail.jpg',
