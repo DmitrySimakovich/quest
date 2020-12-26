@@ -29,9 +29,9 @@
     outline: none;
     border-radius: 10px;
     width: 150px;
-    height: 40px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    padding: 10px 15px;
 }
 .answer {
     display: flex;
