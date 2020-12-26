@@ -1,0 +1,51 @@
+.label {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.input {
+    width: 300px;
+    height: 30px;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 15px;
+    font-size: 17px;
+}
+.btnBlock {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.btnBlock button {
+    background-color: #121224;
+    color: #6363e3;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.answer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    height: 50px;
+    background-color: #bdc4e0;
+    border-radius: 10px;
+    width: 80%;
+}
